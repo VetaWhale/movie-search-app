@@ -70,3 +70,9 @@ button {
   font-size: 30px;
   line-height: 35px;
 }
+.movie-poster {
+  max-width: 150px;
+}
+.not-movies {
+  font-size: 32px;
+}

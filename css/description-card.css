@@ -59,6 +59,9 @@
     gap: 10px;
 }
 .title {
+  margin-bottom: 20px;
+  font-size: 35px;
+  font-weight: 700;
 }
 .tag {
 }
@@ -67,4 +70,11 @@ span {
 }
 .movie-descriprion {
     margin-top: 30px;
+}
+.stop-scrolling {
+    height: 100%;
+    overflow: hidden;
+}
+.movie-descriprion-poster {
+  width: 100px;
 }
