@@ -47,7 +47,6 @@ button {
 }
 .film-wrapper:hover {
   cursor: pointer;
-  width: 80%;
   background-color: #d9d9d9;
   border-radius: 35px;
 }
